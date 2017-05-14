@@ -1,0 +1,22 @@
+melwin
+1 Software program to create original artistic images=> aaron (0) 
+2 Programming language designed by IBM for scientific computing=> aaron (0) 
+3 World's most used web server software=> a (0) 
+4 First antivirus software.=> reper (0) 
+melwin
+Melwin
+1 Software program to create original artistic images=> arron (1)
+2 Programming language designed by IBM for scientific computing=> fortran (1)
+3 World's most used web server software=> apache (1)
+4 First antivirus software.=> reaper (1)
+5 Clashing with others using strategy=> clash of clans (1)
+6 Replacement of Nehalem microarchitecture processor=> sandy bridge (1)
+7 Answer need not be guessed=> erlang (1)
+8 Hindi,English,French,Chinese,Japnese etc=> xcv (0) 
+9 The book all have read=> facebook (1)
+10 Don't know anything? Ask Him=> google (1)
+11 Characters are the variables in this language=> rsgsdg (0) 
+12 Don't eat it wait for it to use=> marshmallow (1)
+13 Happens very quickly and promptly=> swift (1)
+14 Wanna buy<br/>=> flipkart (1)
+15 First android phone=> htc dream (1)

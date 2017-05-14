@@ -1,0 +1,222 @@
+html{
+    font-family: 
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #222222;
+   
+}
+
+body{
+    margin: 0 auto;
+    padding: 1em 2em 2em 2em;
+    max-width: 1216px;
+}
+
+.logo{
+    font-family: 'AR DESTINE',sans-serif;
+    font-size: 50px;
+    line-height: 27px;
+    color: white;
+    font-weight: 50;
+    margin-top:40px;
+    padding-bottom: 30px;
+}
+
+.nav{
+    background: #333;
+}
+
+ul.nav-bar {
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+    overflow: hidden;
+   
+}
+
+a.nav-bar{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+    position: relative;
+    display: inline-block;
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+a.nav-bar:hover,a.nav-bar:active{
+    background: #BE4C39;
+}
+
+li.nav-bar {
+    float: left;  
+}
+
+.container{
+    background-color: #EEEEEE;
+    margin-top:-30px;
+    position: relative;
+    font-family: 'Source Sans Pro',sans-serif;
+    height:650px;
+    padding-left: 50px;
+}
+
+.container>h1{
+    padding-top: 50px;
+    font-size:45px;
+}
+
+.box{
+    background: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: justify;
+    margin-right: 50px;
+}
+
+.box1{
+    background: white;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    width:352px; 
+    float: left;
+    text-align: justify;
+}
+
+.box2{
+    background: white;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-right: 5px;
+    width:352px; 
+    float: left;
+    text-align: justify;
+}
+
+.box3{
+    background: white;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    width:352px; 
+    float: left;
+    margin-left: 30px;
+    text-align: justify;
+}
+
+.box4{
+    background: white;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 2px;
+    width:700px; 
+    float: left;
+    text-align: justify;
+    display: inline-block;
+}
+
+p.content{
+    line-height: 1.5;
+    float: left;
+}
+p.title{
+    color: #4472B9;
+    font-weight: bolder;
+    font-size: 30px;
+    text-align: center;
+}
+button{
+  font-family: 'Source Sans Pro', sans-serif !important;
+    font-size: 20px;
+    font-weight: 500 !important;
+    outline: 0 !important;
+    border-radius: 5px !important;
+    color: white !important;
+    background: #4472B9 !important;
+    white-space: nowrap;
+    padding: 9px 16px !important;
+    line-height: 1.4 !important;
+    border: 0 !important;
+    position: relative;
+}
+
+button:hover {
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.footer{
+    background: #333;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+    position: relative;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    max-width:1216px;
+}
+
+.img{
+    float: left;
+}
+
+img {
+    padding-right: 5px;
+}
+
+img[src="assets/14a.jpg"]{
+margin-top: 60px;
+}
+
+<!----TABLE!---->
+#education {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#education td, #education th {
+    font-size: 1em;
+    border: 1px solid #333333;
+    padding: 3px 7px 2px 7px;
+}
+
+#education th {
+    font-size: 1.1em;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 4px;
+    background-color:#333333;
+    color: #ffffff;
+}
+
+#education tr.alt td {
+    color: #000000;
+    background-color: #EAF2D3;
+}
+
+ul.a{
+    list-style-type:disc;
+}
+
+li.a{
+    float: none;
+}
+.home .box3{
+    margin-left: 5px !important;
+}
+
+#question {
+    font-size: 20px;
+}
